@@ -3,11 +3,17 @@
 Anime Lab It will consist of an application that will allow all addicts of anime, manga, etc. to keep a list of these, and keep track of which chapter it goes through.
 We will also show the most viewed animes and we will be able to browse through the different categories.
 
-## Requirements
+## Requirements concepts about...
 
 - **NodeJS**
-- JS Vanilla, Angular or React
+- JS Vanilla, Angular, React, Vue, etc.
 - Bootstrap
+
+## Framework and Libraries
+
+- [**Svelte**](https://svelte.dev/)
+- Bootstrap
+- Coming soon...
 
 ## Digital tools
 
