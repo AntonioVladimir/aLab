@@ -12,7 +12,7 @@ We will also show the most viewed animes and we will be able to browse through t
 ## Digital tools
 
 - [Trello](https://trello.com/b/yarUHDpZ/alab)
-- Figma
+- [Figma](https://www.figma.com/file/feI5GgHY2sDGSRy0RPZc87/aLab?node-id=0%3A1)
 - VS Code
 - GitHub
 
