@@ -31,3 +31,5 @@ We will also show the most viewed animes and we will be able to browse through t
 ![](https://i.imgur.com/AkRGfvH.png)
 
 ### Soon more...
+
+Finished
