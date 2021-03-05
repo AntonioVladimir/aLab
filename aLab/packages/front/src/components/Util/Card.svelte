@@ -11,10 +11,10 @@
     <h5 class="text-light text-center text-capitalize ">{name}</h5>
   </div>
   <div class="row g-0">
-    <div class="col-xl-3 col-md-3 col-sm-0 col-xs-10">
+    <div class="col-xl-3 col-md-4 col-sm-0 col-xs-10">
       <img src={imageURL} alt="anime cover" class="img-fluid w-100" />
     </div>
-    <div class="col-xl-9 col-md-9 col-sm-12 col-xs-2 pr-5">
+    <div class="col-xl-9 col-md-8 col-sm-12 col-xs-2 pr-5">
       <div class="card-body">
         <h4 class="card-title text-primary">Synopsis:</h4>
         <p class="card-text">{synopsis}</p>
